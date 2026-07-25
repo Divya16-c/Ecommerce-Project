@@ -391,7 +391,7 @@ Example Markdown
 
 # 👩‍💻 Author
 
-**Divya C Gowda**
+**Divyashree C**
 
 B.E. Computer Science and Engineering
 
