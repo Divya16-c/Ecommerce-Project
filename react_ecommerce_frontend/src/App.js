@@ -1,0 +1,1 @@
+import AddProduct from './components/AddProduct';import ProductList from './components/ProductList';import PlaceOrder from './components/PlaceOrder';import OrderList from './components/OrderList';export default function App(){return(<div className='container'><h1>E-Commerce Dashboard</h1><AddProduct/><ProductList/><PlaceOrder/><OrderList/></div>);}
